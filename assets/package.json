@@ -15,7 +15,7 @@
     "bulma-tooltip": "^3.0.2",
     "compression-webpack-plugin": "^8.0.1",
     "flatpickr": "^4.6.3",
-    "phoenix": "^1.4.15",
+    "phoenix": "^1.5.10",
     "phoenix_html": "^2.13.2",
     "phoenix_live_view": "^0.15.0"
   },
