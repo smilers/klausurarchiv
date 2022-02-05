@@ -1414,10 +1414,10 @@ bulma-steps@^2.2.1:
   resolved "https://registry.yarnpkg.com/bulma-steps/-/bulma-steps-2.2.1.tgz#39cc353ae049701c60aa7c74a27bf56b8463cb1a"
   integrity sha512-fD50xz49zPVAfsRNcwBR7rd1lgNdKrcsIXAfVMwMH9A6iDhauOTkiEJOxXj4xZuW/CI6JpV+fCgj5uIuN1lP3Q==
 
-bulma-switch@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/bulma-switch/-/bulma-switch-2.0.0.tgz#7a187cd1bb8073e9a542478d936b89315f1ffcd8"
-  integrity sha512-myD38zeUfjmdduq+pXabhJEe3x2hQP48l/OI+Y0fO3HdDynZUY/VJygucvEAJKRjr4HxD5DnEm4yx+oDOBXpAA==
+bulma-switch@^2.0.4:
+  version "2.0.4"
+  resolved "https://registry.yarnpkg.com/bulma-switch/-/bulma-switch-2.0.4.tgz#a6dea1a026d025a7093a3675b2a599a36820e3a3"
+  integrity sha512-kMu4H0Pr0VjvfsnT6viRDCgptUq0Rvy7y7PX6q+IHg1xUynsjszPjhAdal5ysAlCG5HNO+5YXxeiu92qYGQolw==
 
 bulma-tooltip@^3.0.2:
   version "3.0.2"
