@@ -73,7 +73,7 @@ RUN if [ "$ENV" = "prod" ]; then mix do phx.digest, release klausurarchiv; fi
 
 ##
 # Run
-FROM debian:buster-slim
+FROM debian:10.12-slim
 ENV DEBIAN_FRONTEND noninteractive
 RUN apt-get -qq update && \
   apt-get install -y --no-install-recommends \
