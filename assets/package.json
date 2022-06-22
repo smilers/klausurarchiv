@@ -12,7 +12,7 @@
     "bulma-checkradio": "^1.1.1",
     "bulma-divider": "^0.2.0",
     "bulma-steps": "^2.2.1",
-    "bulma-switch": "^2.0.0",
+    "bulma-switch": "^2.0.4",
     "bulma-tooltip": "^3.0.2",
     "compression-webpack-plugin": "^8.0.1",
     "flatpickr": "^4.6.3",
