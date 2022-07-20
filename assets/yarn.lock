@@ -3153,10 +3153,10 @@ phoenix@^1.4.15:
   resolved "https://registry.yarnpkg.com/phoenix/-/phoenix-1.6.11.tgz#e29c3658c8fd6ba509e87130d2b1b20adc6a9a53"
   integrity sha512-z/MSg9yY20JhTSj6tKmOYE9p+PuU+FVstYtgBfIZPGNLKhSuV9Zcs9LLLKWeiJ9EUzaXS/QeO8Po4+jJnyNfMw==
 
-phoenix_html@^2.13.2:
-  version "2.14.3"
-  resolved "https://registry.yarnpkg.com/phoenix_html/-/phoenix_html-2.14.3.tgz#efdbb7554b70a4e04830bb6ca294e15bcfe09de7"
-  integrity sha512-ANd2C2dlqlmTsyudYZlAuwoYs1AUVlrn9Htwz4RqGY+dTAYOvBrfAlodLR2BlK6c+M4Jcaj/LvSbqT5BV+UBYQ==
+phoenix_html@^3.0.4:
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/phoenix_html/-/phoenix_html-3.1.0.tgz#735bc270f0ba8b6e6df16b21df3e1d7f51a3541f"
+  integrity sha512-PB41xiF7pDzUSL+iKHI4xvGPLY9tUD2C/BE7oEWcCpt3+wrNweAlhbLk2tzM7uQOTZHMyaTLs1rYytg0t5aJyw==
 
 phoenix_live_view@^0.15.0:
   version "0.15.7"
