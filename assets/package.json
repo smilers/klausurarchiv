@@ -14,7 +14,7 @@
     "bulma-steps": "^2.2.1",
     "bulma-switch": "^2.0.0",
     "bulma-tooltip": "^3.0.2",
-    "compression-webpack-plugin": "^10.0.0",
+    "compression-webpack-plugin": "^11.0.0",
     "flatpickr": "^4.6.3",
     "phoenix": "^1.4.15",
     "phoenix_html": "^3.0.0",
